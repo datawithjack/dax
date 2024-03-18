@@ -1,0 +1,8 @@
+Session Info = 
+UNICHAR(10) &
+"Coach: " & min('Attendance and Training Plan'[Coach]) & UNICHAR(10) &
+//" No. Athletes: " & min('Attendance and Training Plan'[Number of Athletes]) & unichar(10) & 
+"Venue: " & min ('Attendance and Training Plan'[Venue]) & UNICHAR(10) &
+"Start Time: " & min('Attendance and Training Plan'[STARTTIME]) & UNICHAR(10) &
+"Equipment: " & min('Attendance and Training Plan'[Equipment Needed]) &
+UNICHAR(10) & UNICHAR(10) & ""
